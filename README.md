@@ -47,5 +47,3 @@ alt="Video Tutorial for Role based authorization in Asp.net Core and Angular 7" 
 | MS SQL                    |https://goo.gl/MLYS9e |   |
 | Crystal Report            |https://goo.gl/5Vou7t |   |
 | CG Exercises in C Program |https://goo.gl/qEWJCs |   |
-
-Hello
